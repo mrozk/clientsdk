@@ -8,7 +8,7 @@
     "homepage": "http://ddelivery.ru/",
     "type": "library",
     "license": "MIT",
-    "minimum-stability": "dev",
+
     "autoload": {
         "psr-0": {
             "DDelivery": "application/classes"
