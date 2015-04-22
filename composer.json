@@ -14,10 +14,6 @@
             "DDelivery": "application/classes"
         }
     },
-    "version": "2.0.3",
-    "extra": {
-        "branch-alias": {
-            "dev-master": "2.0.x-dev"
-        }
-    }
+    "version": "2.0.3"
+
 }
